@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Roopika Sujith 👋
 
-<!--
-**roopikasujith/roopikasujith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer | CSE Student
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering student passionate about software development, problem-solving, and exploring emerging technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🎓 B.Tech CSE Student at SCMS School of Engineering and Technology
+- 🌱 Learning and exploring new technologies
+- 💻 Interested in Software Development, Python, Web Development & Cloud Computing
+- 🚀 Building projects and improving my technical skills
+- 🤝 Open to internships and collaborations
+
+## 🛠️ Skills
+
+- **Languages:** Python, Java, C, JavaScript
+- **Web:** HTML, CSS, Flask, REST APIs
+- **Databases:** MySQL, SQLite
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebook, Power BI
+- **Core Concepts:** DSA, OOP, DBMS
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/roopika-sujith-4bb688331?utm_source=share_via&utm_content=profile&utm_medium=member_android
