@@ -22,4 +22,4 @@ I'm a Computer Science Engineering student passionate about software development
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/roopika-sujith-4bb688331?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- LinkedIn:https://www.linkedin.com/in/roopika-sujith-4bb688331
